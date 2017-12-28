@@ -1,0 +1,23 @@
+{
+  "name": "property-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa0/property-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa0/property-development/issues"
+  },
+  "homepage": "https://github.com/mustafa0/property-development#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
